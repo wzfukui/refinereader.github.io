@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "title": "Refine Reader - AI-Powered Reading Assistant",
+    "description": "Extract article essence with one click. AI-powered reading assistant with multi-language support and theme switching."
+  },
+  "nav": {
+    "features": "Features",
+    "install": "Installation",
+    "language": {
+      "zh": "中文",
+      "en": "English"
+    }
+  },
+  "hero": {
+    "title": "Let AI Help You Understand Every Article",
+    "subtitle": "AI-powered reading assistant that helps you quickly understand and extract article essence",
+    "cta": {
+      "store": "Install from Chrome Store",
+      "download": "Offline Package"
+    }
+  },
+  "features": {
+    "title": "Core Features",
+    "items": [
+      {
+        "icon": "🤖",
+        "title": "AI Summary",
+        "desc": "Generate core viewpoints, key arguments and conclusions with one click"
+      },
+      {
+        "icon": "🌏",
+        "title": "Multi-language",
+        "desc": "Support Chinese, English and bilingual mode"
+      },
+      {
+        "icon": "🎨",
+        "title": "Themes",
+        "desc": "Multiple elegant themes for better reading experience"
+      },
+      {
+        "icon": "💬",
+        "title": "Interactive",
+        "desc": "Support multi-round dialogue based on article content"
+      }
+    ]
+  },
+  "install": {
+    "title": "Installation Guide",
+    "tabs": {
+      "online": "Online Install",
+      "offline": "Offline Install"
+    },
+    "online": {
+      "steps": [
+        "1. Visit Chrome Web Store",
+        "2. Click 'Add to Chrome'",
+        "3. Confirm installation",
+        "4. Go to settings page and configure parameters"
+      ]
+    },
+    "offline": {
+      "steps": [
+        "1. Download CRX package: refinereader.crx",
+        "2. Open Chrome extensions page chrome://extensions",
+        "3. Enable 'Developer mode'", 
+        "4. Drag file refinereader.crx into the page to install",
+        "5. Disable 'Developer mode'",
+        "6. Go to settings page and configure parameters"
+      ]
+    }
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "contact": "Contact Us"
+  }
+} 

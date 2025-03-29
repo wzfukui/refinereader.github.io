@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "title": "萃花阅读 - AI智能阅读助手",
+    "description": "一键提炼文章精华，让阅读更轻松。基于AI的智能阅读助手，支持多语言和主题切换。"
+  },
+  "nav": {
+    "features": "功能特性",
+    "install": "安装指南",
+    "language": {
+      "zh": "中文",
+      "en": "English"
+    }
+  },
+  "hero": {
+    "title": "让AI助你读懂每一篇文章",
+    "subtitle": "基于AI的智能阅读助手，帮助你快速理解和提炼文章精华",
+    "cta": {
+      "store": "Chrome商店安装",
+      "download": "离线安装包"
+    }
+  },
+  "features": {
+    "title": "核心功能",
+    "items": [
+      {
+        "icon": "🤖",
+        "title": "AI智能总结",
+        "desc": "一键生成文章核心观点、重要论据和关键结论"
+      },
+      {
+        "icon": "🌏",
+        "title": "多语言支持",
+        "desc": "支持中英文和双语对照模式"
+      },
+      {
+        "icon": "🎨",
+        "title": "主题切换",
+        "desc": "内置多种精美主题，随心切换阅读体验"
+      },
+      {
+        "icon": "💬",
+        "title": "阅读互动",
+        "desc": "支持基于文章内容的多轮对话"
+      }
+    ]
+  },
+  "install": {
+    "title": "安装指南",
+    "tabs": {
+      "online": "在线安装",
+      "offline": "离线安装"
+    },
+    "online": {
+      "steps": [
+        "1. 访问Chrome网上应用店",
+        "2. 点击「添加至Chrome」",
+        "3. 确认安装",
+        "4. 进入插件设置页面，配置参数"
+      ]
+    },
+    "offline": {
+      "steps": [
+        "1. 下载安装文件：refinereader.crx",
+        "2. Chrome浏览器地址栏输入：chrome://extensions，打开扩展页面",
+        "3. 开启「开发者模式」",
+        "4. 将文件refinereader.crx拖入页面完成安装",
+        "5. 关闭「开发者模式」",
+        "6. 进入插件设置页面，配置参数"
+      ]
+    }
+  },
+  "footer": {
+    "privacy": "隐私政策",
+    "contact": "联系我们"
+  }
+} 
